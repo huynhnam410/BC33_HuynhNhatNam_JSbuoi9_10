@@ -16,7 +16,7 @@ function Staff(tknv, name, email, password, datepicker, luongCB, chucvu, giolam,
        
         return salary*2;
         
-      } else if (chucvu==="Nhân viên"){
+      } else if (chucvu ==="Nhân viên"){
         return salary
       }
       
